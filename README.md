@@ -14,4 +14,5 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/db300a5b-6ef7-4140-9d5d-3e9a1213f6b3" />
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d057543b-9f26-4a19-91fb-b396f1992a88" />
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/6cb70234-3a0c-4a72-922c-ddb6da90fc18" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/97a46536-16da-496a-b1cf-45451f58e8ad" />
 
