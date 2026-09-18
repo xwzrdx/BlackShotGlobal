@@ -12,6 +12,7 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 * Room List
 * Create Room
 * Room Player List
+* Change Room Settings
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b7218e8c-d1bf-4ee7-98e3-1ce32eedac31" />
