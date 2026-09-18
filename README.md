@@ -13,6 +13,9 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 * Create Room
 * Room Player List
 * Change Room Settings
+* Start Match
+* Enter Room
+* Ready/Unready
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b7218e8c-d1bf-4ee7-98e3-1ce32eedac31" />
@@ -25,6 +28,8 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 <img width="643" height="346" alt="image" src="https://github.com/user-attachments/assets/d04d2e4d-9aa5-4e8a-8448-77905a4dbd02" />
 <img width="1326" height="286" alt="image" src="https://github.com/user-attachments/assets/3b9d361a-769e-4e49-bdeb-5738ec2d4a4e" />
 <img width="1756" height="1127" alt="image" src="https://github.com/user-attachments/assets/e7462154-a1a2-4019-8d24-0debb7b13986" />
+<img width="800" height="598" alt="image" src="https://github.com/user-attachments/assets/3be6e29f-de17-4ea2-8720-22af5ef083cf" />
+<img width="787" height="592" alt="image" src="https://github.com/user-attachments/assets/bb536f08-3cb4-4351-9e49-adb6981a04f3" />
 
 
 Discord: ``wzrd0001``
