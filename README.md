@@ -18,6 +18,11 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 * Ready/Unready
 * Multiplayer
 
+
+# To Do
+* Password protected rooms + validation
+
+
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b7218e8c-d1bf-4ee7-98e3-1ce32eedac31" />
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b3968e20-1c6c-405e-97d1-152f40689fc1" />
