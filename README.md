@@ -10,6 +10,8 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 * Nickname already taken validation
 * Lobby Chat
 * Room List
+* Create Room
+* Room Player List
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b7218e8c-d1bf-4ee7-98e3-1ce32eedac31" />
@@ -21,4 +23,5 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 <img width="1496" height="1192" alt="image" src="https://github.com/user-attachments/assets/62e90713-d631-4386-87ef-25ff4287fef9" />
 <img width="643" height="346" alt="image" src="https://github.com/user-attachments/assets/d04d2e4d-9aa5-4e8a-8448-77905a4dbd02" />
 <img width="1326" height="286" alt="image" src="https://github.com/user-attachments/assets/3b9d361a-769e-4e49-bdeb-5738ec2d4a4e" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d9f4caf3-ea2f-44d6-8ad2-c2adf6f5dc5c" />
 
