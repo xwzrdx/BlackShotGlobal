@@ -17,6 +17,7 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 * Enter Room
 * Ready/Unready
 * Multiplayer
+* Currencies (BC, Gold, Gems)
 
 
 # To Do
@@ -37,6 +38,7 @@ Server Emulator for Blackshot Global Client Ver. ``3.3.7.1 (2026)``
 <img width="800" height="598" alt="image" src="https://github.com/user-attachments/assets/3be6e29f-de17-4ea2-8720-22af5ef083cf" />
 <img width="787" height="592" alt="image" src="https://github.com/user-attachments/assets/bb536f08-3cb4-4351-9e49-adb6981a04f3" />
 <img width="796" height="595" alt="image" src="https://github.com/user-attachments/assets/174b592a-02e5-4938-8e04-b75635e141de" />
+<img width="291" height="42" alt="image" src="https://github.com/user-attachments/assets/3492de3a-8077-44bd-baff-ecefc9dc56e8" />
 
 
 
